@@ -133,6 +133,7 @@ https://github.com/orgs/Kernel360/projects/8?pane=issue&itemId=41434613
 ![api_______________________720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/aae03c8a-e554-4811-af14-2b15bc3c9668)
 
 ## 시스템 아키텍쳐
+![시스템 아키텍처](https://github.com/Kernel360/boot-up1-twoStar/assets/59242594/c60fa291-826d-4e1b-aad5-d6ca56a6fe94)
 
 
 
