@@ -1,5 +1,3 @@
-# boot-up1-team2
-
 # TwoStar
 
 인스타그램과 같은 SNS 프로그램 프로젝트입니다.
