@@ -117,19 +117,13 @@
 이러한 기준을 바탕으로 작성된 주요 기능 내용은 다음과 같은 장점이 있습니다.
 
 * **사용자가 기능을 이해하기 쉽습니다.**
-* **기능의 상세 내용을 확인
+* **기능의 상세 내용을 확인**
 
 ## 프로토타입
 
-![__________720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/1a650817-9c1e-46d7-9272-1d12f4bd417f) 
+![prototypeui_720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/ad9371fa-f18d-450e-be0c-504e1158f0fc)
 
-![__________720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/580cf077-d574-4700-8147-8cc679b8b8ba) 
-
-![_______720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/2a66e698-9cea-4c16-a266-501852937072)
-
-![_______720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/363bb069-913c-4fe5-86ca-38bfa11a7053)
-
-![________________720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/1c9b695c-1629-417b-80a9-545d8fd5b4cd)
+https://github.com/orgs/Kernel360/projects/8?pane=issue&itemId=41434613
 
 ## ERD
 ![erd_720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/fcc1e25c-45a6-4f3f-9b90-920b10025eeb)
@@ -139,3 +133,11 @@
 
 ## API 설계서
 ![api_______________________720](https://github.com/Kernel360/boot-up1-twoStar/assets/91066575/aae03c8a-e554-4811-af14-2b15bc3c9668)
+
+## 시스템 아키텍쳐
+
+
+
+
+
+
