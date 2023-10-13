@@ -135,8 +135,7 @@ https://github.com/orgs/Kernel360/projects/8?pane=issue&itemId=41434613
 ## 시스템 아키텍쳐
 ![시스템 아키텍처](https://github.com/Kernel360/boot-up1-twoStar/assets/59242594/c60fa291-826d-4e1b-aad5-d6ca56a6fe94)
 
-
-
+## 개발 타임라인 필요.
 
 
 
